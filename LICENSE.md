@@ -1,4 +1,4 @@
-# 
+# ultimate MEV Bot for liquidity sniper bot | simulation-mode & low-cap-gem-detection is the best liquidity sniper bot, featuring simulation-mode and low-cap-gem-detection. Fast,
 
 
 
